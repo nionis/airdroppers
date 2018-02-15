@@ -1,7 +1,7 @@
 {
   "name": "airdroppers",
   "version": "1.0.0",
-  "description": "Airdrops for sending ether or tokens",
+  "description": "Air-droppers for sending ether or tokens",
   "author": "Steven Noni",
   "license": "ISC",
   "dependencies": {

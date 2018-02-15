@@ -1,0 +1,11 @@
+{
+  "name": "airdroppers",
+  "version": "1.0.0",
+  "description": "Airdrops for sending ether or tokens",
+  "author": "Steven Noni",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^4.0.6",
+    "zeppelin-solidity": "^1.6.0"
+  }
+}
